@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aanchal199
 - 👀 I’m interested in Networking, Cloud Computing
 - 🌱 I’m currently learning Jenkins
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me on mail id aanchal.iglas@gmail.com
 
 <!---
